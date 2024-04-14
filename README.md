@@ -20,12 +20,7 @@ Ficou responsavel por fazer Mobile
 
 # Como rodar a aplicação
 
-L SRC
-    L MAIN
-        L JAVA
-            L BR.COM.FIAP.CHALLENGER
-                                  L ChallengerApplication
-
+SRC > MAIN > JAVA > BR.COM.FIAP.CHALLENGER > ChallengerApplication
 Rodar a aplicação atraves do 'ChallengerApplication'.
 
 # Diagrama de Classes
