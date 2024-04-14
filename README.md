@@ -24,5 +24,7 @@ SRC > MAIN > JAVA > BR.COM.FIAP.CHALLENGER > ChallengerApplication
 Rodar a aplicação atraves do 'ChallengerApplication'.
 
 # Diagrama de Classes
-
 ![diagrama-classes.png](documentacao%2Fdiagramas%2Fdiagrama-classes.png)
+
+# Link do Video
+
