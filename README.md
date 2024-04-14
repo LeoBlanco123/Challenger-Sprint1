@@ -1,9 +1,12 @@
 # Nome do projeto 💻🤖
 
-[Integrantes ](#_Integrantes)  
-[Diagrama de Classes ](#_Diagrama_de_Classes)
+[Integrantes](#_Integrantes)  
+[Como rodar a aplicação](# Como_rodar_a_aplicação)  
+[Diagrama de Classes](#_Diagrama_de_Classes)  
+[Link do Video](#_Link_do_Video)  
+[End Points](#_End_Points)  
 
-# Integrantes
+# Integrantes  
 
 ### Leonardo Blanco – rm99119 
 Ficou responsavel por fazer a aplicação em Java
@@ -28,9 +31,7 @@ Rodar a aplicação atraves do 'ChallengerApplication'.
 
 # Link do Video
 
-# End Points
-
-## A criação dos end points
+# End Points  
 
 ### OBS FAZER NO POSTMAN O NUMERO 1 E 2 PRIMERO, PARA NAO DAR PROBLEMA EM RELAÇÃO NO BANCO DE DADOS
 
