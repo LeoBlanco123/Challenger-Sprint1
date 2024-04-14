@@ -1,6 +1,6 @@
 # Nome do projeto
 
-[Integrantes ](# Integrantes)  
+[Integrantes ](#_Integrantes)  
 [Diagrama de Classes ](#_Diagrama_de_Classes)
 
 # Integrantes
@@ -8,7 +8,7 @@
 ### Leonardo Blanco – rm99119 
 Ficou responsavel por fazer a aplicação em Java
 ### Leonardo Yuuki – rm550373
-ficou responsavel por fazer Devops, IA e .NET
+Ficou responsavel por fazer Devops, IA e .NET
 ### Gustavo Moreira - rm97999
 Ficou responsavel por fazer QA
 ### Paulo Henrique – rm98082
