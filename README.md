@@ -16,7 +16,7 @@ Ficou responsavel por fazer o Banco de Dados
 ### Daniel Soares -rm552184
 Ficou responsavel por fazer Mobile
 
-## OBS TODOS AJUDARAM EM TODAS AS MATERIAS, POREM CADA UM TINHA UM FOCO
+### OBS TODOS AJUDARAM EM TODAS AS MATERIAS, POREM CADA UM TINHA UM FOCO
 
 # Como rodar a aplicação
 
