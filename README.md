@@ -1,6 +1,6 @@
 # Nome do projeto
 
-[Integrantes](# Integrantes)  
+[Integrantes ](# Integrantes)  
 [Diagrama de Classes ](#_Diagrama_de_Classes)
 
 # Integrantes
