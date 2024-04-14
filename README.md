@@ -65,7 +65,7 @@ Rodar a aplicação atraves do 'ChallengerApplication'.
        2. "localhost/interacoes" - **POST**
        3. "logalhost/interacoes/{id}" - **GET**
 
-    6. **TendenciasGastosResource** com as seguintes ROTAS e VERBOS:
+    7. **TendenciasGastosResource** com as seguintes ROTAS e VERBOS:
        1. "localhost/tendencias" - **GET**,
        2. "localhost/tendencias" - **POST**
        3. "logalhost/tendencias/{id}" - **GET**
