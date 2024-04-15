@@ -3,7 +3,7 @@
 [Integrantes](#integrantes)  
 [Como rodar a aplicação](#como-rodar-a-aplicação)  
 [Diagrama de Classes](#diagrama-de-classes)  
-[Link do Video](#_Link_do_Video)  
+[Link do Video](#link-do-video)  
 [End Points  ](#_End_Points)  
 
 # Integrantes  
