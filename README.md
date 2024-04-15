@@ -1,7 +1,7 @@
 # Nome do projeto 💻🤖
 
 [Integrantes](#integrantes)  
-[Como rodar a aplicação](#_Como_rodar_a_aplicação)  
+[Como rodar a aplicação](#como-rodar-a-aplicação)  
 [Diagrama de Classes](#diagrama-de-classes)  
 [Link do Video](#_Link_do_Video)  
 [End Points  ](#_End_Points)  
