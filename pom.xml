@@ -11,8 +11,8 @@
     <groupId>br.com.fiap</groupId>
     <artifactId>Challenger-Plusoft</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring-pf-entregas</name>
-    <description>spring-pf-entregas</description>
+    <name>Challenger-Sprint1</name>
+    <description>Challenger-Sprint1</description>
     <properties>
         <java.version>17</java.version>
     </properties>
