@@ -2,7 +2,7 @@
 
 [Integrantes](#_Integrantes)  
 [Como rodar a aplicação](#_Como_rodar_a_aplicação)  
-[Diagrama de Classes](#_Diagrama_de_Classes)  
+[Diagrama de Classes](#diagrama-de-classes)  
 [Link do Video](#_Link_do_Video)  
 [End Points  ](#_End_Points)  
 
