@@ -4,7 +4,7 @@
 [Como rodar a aplicação](#como-rodar-a-aplicação)  
 [Diagrama de Classes](#diagrama-de-classes)  
 [Link do Video](#link-do-video)  
-[End Points  ](#_End_Points)  
+[End Points  ](#link-do-video)  
 
 # Integrantes  
 
