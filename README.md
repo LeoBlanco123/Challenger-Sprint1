@@ -31,6 +31,8 @@ Rodar a aplicação atraves do 'ChallengerApplication'.
 
 # Link do Video
 
+https://www.youtube.com/watch?v=V7Ntv5wPsF0
+
 # End Points    
 
 ### OBS FAZER NO POSTMAN O NUMERO 1 E 2 PRIMERO, PARA NAO DAR PROBLEMA EM RELAÇÃO NO BANCO DE DADOS
