@@ -1,4 +1,4 @@
-# Nome do projeto 💻🤖
+# HyperReach 💻🤖
 
 [Integrantes](#integrantes)  
 [Como rodar a aplicação](#como-rodar-a-aplicação)  
